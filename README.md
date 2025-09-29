@@ -22,8 +22,9 @@ This project is ideal for learning and for use as a backend schema for real clin
 2. Open a terminal and log in to MySQL:
    ```bash
    mysql -u root -p
-   
-   ###Run the script:
+
+
+###Run the script:
 
 mysql -u root -p < clinic_booking.sql
 
